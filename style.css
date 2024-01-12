@@ -3,3 +3,95 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.firstHeader {
+  /* padding-left: 700px; */
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-left: 700px;
+  background-color: rgb(182, 179, 179);
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.header {
+  padding: 10px;
+  background-color: rgb(182, 179, 179);
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* #centerHeader {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} */
+
+.centerText {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+#details {
+  /* height: 50px;
+  width: 100%; */
+  /* background-color: #555; */
+  /* width: 100%;
+  height: 100px;
+  background-color: gray;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  padding-bottom: 120px; */
+  margin-left: 0px;
+  background-color: red;
+  width: 100%;
+  height: 120px;
+  border: 1px solid red;
+}
+
+.contPos {
+  padding-left: 250px;
+  position: absolute;
+  text-align: center;
+}
+
+.corrPos {
+  padding-left: 650px;
+  position: absolute;
+  text-align: center;
+}
+
+.linkPos {
+  padding-left: 1050px;
+  position: absolute;
+  text-align: center;
+}
+
+.follPos {
+  padding-left: 1450px;
+  position: absolute;
+  text-align: center;
+}
+
+/* h3~p {
+  background-color: red;
+}
+
+h3 {
+  background-color: red;
+} */
